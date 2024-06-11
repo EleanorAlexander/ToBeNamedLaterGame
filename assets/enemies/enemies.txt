@@ -1,0 +1,2 @@
+slime_neutral.png 0 0 32x32
+slime_mad.png 0 1 32x32
